@@ -1,4 +1,4 @@
-Hi, I'm GUTSAUCE. As both a pen-and-paper and digital artist, I love to draw monster girls, boobs, tentacles, bondage, femdom, gay/lesbian action, and almost any other kink that involves enthusiastically-consenting human/humanoid adults. I also draw safe-for-work stuff, but that's probably not what you're here for.
+Hi, I'm GUTSAUCE. As a former sex worker, I love to draw monster girls, boobs, tentacles, bondage, femdom, gay/lesbian action, and almost any other kink that involves enthusiastically-consenting human/humanoid adults. I also draw safe-for-work stuff, but that's probably not what you're here for. I'm bi, which means I draw with pen-and-paper AND digitally. :)
 
 Commissions are open. Send me a message on Twitter or DeviantArt to discuss.
 
