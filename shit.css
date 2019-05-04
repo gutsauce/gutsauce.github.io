@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-h3, footnote {
+h3 {
   text-align: center;
   padding: 5%;
 }
@@ -24,3 +24,9 @@ table tr#palegreen {
 table tr#skyblue {
   background-color: skyblue;
 }
+
+table tr#footnote {
+  text-align: center;
+  padding: 5%;
+}
+
