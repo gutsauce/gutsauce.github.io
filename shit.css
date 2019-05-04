@@ -3,18 +3,22 @@ body {
   text-align: center;
 }
 
-td.info {
+h3 {
+  text-align: center;
+}
+
+table td#info {
   text-align: left;
 }
 
-tr.lightpink {
+table tr#lightpink {
   background-color: lightpink;
 }
 
-tr.palegreen {
+table tr#palegreen {
   background-color: palegreen;
 }
 
-tr.skyblue {
+table tr#skyblue {
   background-color: skyblue;
 }
