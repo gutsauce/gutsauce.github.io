@@ -10,7 +10,7 @@ h3 {
 
 table td#info {
   text-align: left;
-  padding: 40px;
+  padding-top: 40px;
 }
 
 table tr#lightpink {
@@ -27,6 +27,6 @@ table tr#skyblue {
 
 table tr#footnote {
   text-align: center;
-  padding: 40px;
+  padding-top: 40px;
 }
 
