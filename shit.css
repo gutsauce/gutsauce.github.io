@@ -3,6 +3,18 @@ body {
   text-align: center;
 }
 
-info {
+div.info {
   text-align: left;
+}
+
+div.lightpink {
+  background-color: lightpink;
+}
+
+div.palegreen {
+  background-color: palegreen;
+}
+
+div.skyblue {
+  background-color: skyblue;
 }
