@@ -3,18 +3,18 @@ body {
   text-align: center;
 }
 
-div.info {
+td.info {
   text-align: left;
 }
 
-div.lightpink {
+tr.lightpink {
   background-color: lightpink;
 }
 
-div.palegreen {
+tr.palegreen {
   background-color: palegreen;
 }
 
-div.skyblue {
+tr.skyblue {
   background-color: skyblue;
 }
