@@ -5,12 +5,12 @@ body {
 
 h3 {
   text-align: center;
-  padding: 5%;
+  padding: 40px;
 }
 
 table td#info {
   text-align: left;
-  padding: 5%;
+  padding: 40px;
 }
 
 table tr#lightpink {
@@ -27,6 +27,6 @@ table tr#skyblue {
 
 table tr#footnote {
   text-align: center;
-  padding: 5%;
+  padding: 40px;
 }
 
