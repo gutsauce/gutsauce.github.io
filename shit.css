@@ -3,12 +3,6 @@ body {
   text-align: center;
 }
 
-h3 {
-  text-align: center;
-  padding-top: 40px;
-  text-color: "#00FF00";
-}
-
 table td#info {
   text-align: left;
   padding-top: 40px;
@@ -18,8 +12,12 @@ table tr#lightpink {
   background-color: lightpink;
 }
 
-table tr#palegreen {
+table tr#header {
+  color: "#00FF00";
   background-color: black;
+  text-align: center;
+  font-family: 'Creepster', cursive;
+  font-size: "100px";
 }
 
 table tr#skyblue {
