@@ -12,8 +12,8 @@ table tr#lightpink {
   background-color: lightpink;
 }
 
-table tr#header {
-  color: "#white";
+header {
+  color: white;
   background-color: black;
   text-align: center;
   font-family: 'Creepster', cursive;
