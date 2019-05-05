@@ -24,8 +24,18 @@ table tr#skyblue {
   background-color: skyblue;
 }
 
-table tr#footnote {
+footnote {
   text-align: center;
   padding-top: 40px;
+  color: white;
+  background-color: black;
+}
+
+footnote.a {
+  color: white;
+}
+
+footnote.hover {
+  color: red;
 }
 
