@@ -13,11 +13,11 @@ table tr#lightpink {
 }
 
 table tr#header {
-  color: "#00FF00";
+  color: "#white";
   background-color: black;
   text-align: center;
   font-family: 'Creepster', cursive;
-  font-size: "100px";
+  font-size: "2em";
 }
 
 table tr#skyblue {
