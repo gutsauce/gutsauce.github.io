@@ -1,11 +1,12 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 table td#info {
   text-align: left;
-  padding-top: 40px;
+  margin: 40px;
 }
 
 table tr#lightpink {
@@ -20,8 +21,8 @@ header {
   font-size: 400%;
 }
 
-table tr#skyblue {
-  background-color: skyblue;
+table tr#green {
+  background-color: acfe76;
 }
 
 footnote {
@@ -31,15 +32,19 @@ footnote {
   background-color: black;
 }
 
-footnote:a {
+A:link {
+  color: #acfe76;
+}
+
+A:hover {
   color: white;
 }
 
-footnote:hover {
-  color: red;
+A:visited {
+  color: #acfe76;
 }
 
-footnote:visited {
-  color: white;
+A:active {
+  color: #acfe76;
 }
 
