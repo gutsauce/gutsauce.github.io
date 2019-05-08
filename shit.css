@@ -2,6 +2,7 @@ body {
   background-color: black;
   text-align: center;
   font-family: 'Roboto', sans-serif;
+  margin: 40px;
 }
 
 table td#info {
@@ -23,6 +24,7 @@ header {
 
 table tr#green {
   background-color: acfe76;
+  width: 70%;
 }
 
 footnote {
