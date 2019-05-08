@@ -13,11 +13,11 @@ table tr#lightpink {
 }
 
 header {
-  color: white;
+  color: #acfe76;
   background-color: black;
   text-align: center;
   font-family: 'Creepster', cursive;
-  font-size: 300%;
+  font-size: 400%;
 }
 
 table tr#skyblue {
@@ -26,20 +26,20 @@ table tr#skyblue {
 
 footnote {
   text-align: center;
-  padding-top: 40px;
+  margin-top: 40px;
   color: white;
   background-color: black;
 }
 
-footnote.a {
+footnote:a {
   color: white;
 }
 
-footnote.hover {
+footnote:hover {
   color: red;
 }
 
-footnote.visited {
+footnote:visited {
   color: white;
 }
 
